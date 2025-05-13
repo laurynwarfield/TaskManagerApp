@@ -1,0 +1,34 @@
+# CMSC222-MJR-PRJ
+Major Project for CMSC222 @ FCC
+
+1. Who are the users of the software?
+The primary users of this task manager software are individuals and teams who need to manage and organize tasks effectively. The target users include:
+Individuals: People who want to keep track of their personal tasks and deadlines.
+Teams/Organizations: Small to medium-sized teams or departments that need to collaborate and track multiple tasks or projects at once.
+Project Managers: Individuals who need a clear overview of tasks, deadlines, and team members' progress.
+
+2. What is the purpose of the software?
+The purpose of the software is to provide an easy-to-use platform that allows users to:
+-Create and manage tasks.
+-Organize tasks by priority, due dates, and categories.
+-Track task progress and set reminders.
+-Visualize task lists in a clear and structured way.
+
+3. Where and when will the software be used?
+   WHERE: The software will primarily be used on desktop or laptop computers, either locally or within a networked environment. It can be used in personal, professional, or collaborative environments.
+
+   WHEN: The software can be used daily, as tasks are constantly created, updated, and completed. It will be particularly useful when deadlines are approaching or when managing multiple ongoing tasks.
+
+4. How does the software work?
+-Task Creation: Users can create tasks with descriptions, due dates, priorities, and categories (e.g., Work, Personal).
+-Task Management: Tasks can be edited, marked as completed, deleted, or categorized. Tasks can also be assigned to specific individuals if the software is used by teams.
+-Reminders/Notifications: The software can notify users of upcoming deadlines or tasks that are overdue.
+-Task Organization: Tasks can be viewed in a list format or organized by categories, priorities, or due dates.
+-Collaboration: Users can share tasks, assign them to others, and monitor progress.
+
+5. Why would anyone want to use the software over existing processes?
+-Efficiency: The software centralizes task management, reducing the time spent on manually keeping track of tasks and deadlines (e.g., using paper planners, spreadsheets, or email).
+-Notifications & Reminders: Users can avoid missing deadlines with automated reminders and task updates, which is much more reliable than relying on personal reminders or sticky notes.
+-Organization & Structure: The software provides various ways to categorize and prioritize tasks, giving users clear insights into their workload and helping them focus on the most important tasks first.
+
+   
